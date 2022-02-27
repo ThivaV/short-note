@@ -1,0 +1,2 @@
+# short-note
+Short notes
